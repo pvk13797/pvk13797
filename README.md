@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ### Github Stats
 [![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvk13797)](https://github.com/pvk13797/github-readme-stats)
 
-### Top Languages
+### Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvk13797)](https://github.com/pvk13797/github-readme-stats)
 
