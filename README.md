@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m currently working as a Web Developer with 1.7 Years of experience in HTML, CSS, Javascript, jQuery and Angular.
+
 <!--
 **pvk13797/pvk13797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github Stats
+[![Prasanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvk13797)](https://github.com/pvk13797/github-readme-stats)
+
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvk13797)](https://github.com/pvk13797/github-readme-stats)
+
