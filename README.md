@@ -1,6 +1,6 @@
 ### Hi there, I'm Prasanna 👋
 
-I’m currently working as a Web Developer with 2 Years and 2 Months of experience in HTML, CSS, Javascript, jQuery, MySQL, Java, PHP and MEAN Stack.
+I’m currently working as a Web Developer with 2 Years and 2 Months of experience in HTML, CSS, Javascript, jQuery, MySQL, Java, J2EE, PHP and MEAN Stack.
 
 Here is my portfolio link [Live](https://lucky-sherbet-f2e31c.netlify.app/)
 
